@@ -5,6 +5,7 @@
   "author": "HUBOT_SLACK_TOKEN=xoxb-179106651346-pFkddiewsxeT7ZRWjxT2G56C ./bin/hubot --adapter slack",
   "description": "Responds to Burner's Slack integration",
   "dependencies": {
+    "ejs": "^2.5.6",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
