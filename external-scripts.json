@@ -10,5 +10,7 @@
   "hubot-mobilefriendly",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-responder",
+  "hubot-encourage"
 ]
